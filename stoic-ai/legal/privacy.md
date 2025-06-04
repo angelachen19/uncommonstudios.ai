@@ -15,10 +15,7 @@ We do **not** ask users to create accounts, and we do **not** collect any person
 **Anonymous Usage Data**
 We may collect anonymous, aggregated usage data to help us understand how features are used so we can improve the app for everyone. This includes but is not limited to information like feature taps, session duration, and general engagement trends. This data cannot be used to identify you.
 
----
-
 **Subscription and Payment Information via RevenueCat**
-
 We use a third-party service called RevenueCat to manage subscriptions and in-app purchases. RevenueCat helps us securely process transactions and manage user entitlements.
 
 When you make a purchase through the App Store, RevenueCat may collect limited information from your device to validate the transaction and deliver the correct subscription access. This may include:
