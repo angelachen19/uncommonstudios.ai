@@ -17,6 +17,24 @@ We may collect anonymous, aggregated usage data to help us understand how featur
 
 ---
 
+**Subscription and Payment Information via RevenueCat**
+
+We use a third-party service called RevenueCat to manage subscriptions and in-app purchases. RevenueCat helps us securely process transactions and manage user entitlements.
+
+When you make a purchase through the App Store, RevenueCat may collect limited information from your device to validate the transaction and deliver the correct subscription access. This may include:
+
+- An anonymous app user identifier
+
+- Transaction receipts from the App Store
+
+- Basic purchase history (e.g., product type, purchase date, and renewal status)
+
+This information is not personally identifiable and is used solely for managing your subscription status and ensuring proper access to premium features. We do not receive or store your payment information.
+
+RevenueCat operates in compliance with Apple's privacy policies. For more details, please refer to RevenueCat’s Privacy Policy.
+
+---
+
 **2. How We Use Information**
 
 - To improve user experience through anonymous insights
